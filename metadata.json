@@ -1,0 +1,6 @@
+{
+  "name": "NLSbox Web Admin",
+  "description": "Panneau d'administration web et modération sécurisé pour NLSbox",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
